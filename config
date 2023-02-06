@@ -1,0 +1,9 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="tbls"
+export PACKAGE_CORE_BIN_NAME="$PACKAGE_CORE_NAME"
+export PACKAGE_CORE_VERSION=v1.61.0
+export PACKAGE_CORE_ORG="k1LoW"
+
+# export PACKAGE_CORE_RELEASE_DOWNLOAD=${PACKAGE_CORE_RELEASE_DOWNLOAD:-"https://github.com/${PACKAGE_CORE_ORG}/tbls/releases/download"}
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/${PACKAGE_CORE_ORG}/tbls/releases/download"
